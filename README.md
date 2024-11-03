@@ -9,17 +9,7 @@ I consider myself a very responsible and organized person, qualities that I cons
 I am always looking to learn and improve my skills, and I love facing new challenges in the programming world. My goal is to continue to grow as a developer and contribute innovative solutions that make a difference. 💻🤩
 
 
-<h2>📊 My github Stats</h2>
 
-<div>
-
-
-![](https://github-readme-stats.vercel.app/api?username=LuisanaBMG&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuisanaBMG&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisanaBMG&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-</div>
 
 <h2>🛠️ Skills</h2>
 
